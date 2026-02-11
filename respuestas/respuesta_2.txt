@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+Base de Datos Documental | permite que cada perfil tenga campos distintos y evolucione en el tiempo sin necesidad de migraciones de esquema complejas.
