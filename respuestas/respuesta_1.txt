@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+GRAFOS | Permite recorrer conexiones profundas y realizar análisis de proximidad entre nodos
