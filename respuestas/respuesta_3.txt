@@ -1,1 +1,1 @@
-TIPO | Justificación corta
+Base de Datos de Series Temporales| Están optimizadas específicamente para manejar una ingesta masiva de datos y realizar consultas analíticas rápidas basadas en intervalos de tiempo y marcas temporales.
